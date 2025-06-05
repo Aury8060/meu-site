@@ -1,0 +1,71 @@
+body {
+    background-color: #c2bebe;
+    /* Fundo suave */
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #0677e7;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+ul li {
+    margin-bottom: px;
+    /* Espaçamento maior entre itens */
+}
+
+.hobby-img {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #0e0d0d;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #2980b9;
+}
+
+a:hover {
+    color: #e64736;
+    /* Muda de cor ao passar o mouse */
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #f81b02;
+}
